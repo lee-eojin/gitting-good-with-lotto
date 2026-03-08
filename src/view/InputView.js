@@ -1,6 +1,6 @@
 import { Console } from "@woowacourse/mission-utils";
 import { INFO } from "../constants/messages.js";
-import IsRetry from "../domain/isRetry.js";
+import IsRetry from "../domain/IsRetry.js";
 import Lotto from "../domain/Lotto.js";
 import Money from "../domain/Money.js";
 import WinningNumber from "../domain/WinningNumber.js";
